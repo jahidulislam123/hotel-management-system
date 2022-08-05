@@ -1,0 +1,59 @@
+.hotel-image {
+    width: 60px;
+    border-radius: 35px;
+    background-image: #FFFFFF;
+
+}
+
+.navbar-hover {
+    background-color: rgb(238, 245, 245);
+    border-radius: 18px;
+    margin-right: 17px;
+    margin-left: 27px;
+    text-align: center;
+    font-weight: 700;
+
+
+}
+
+.navbar-hover:hover {
+    background-color: rgb(195, 196, 196);
+    border-radius: 18px;
+    margin-right: 17px;
+
+    font-weight: 700;
+
+
+}
+
+.banner-image {
+    height: 820px;
+
+}
+
+.about-div {
+    background-color: #9292963f;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+.about-div:hover {
+    background-color: #FFFFFF;
+}
+
+.room-img {
+    width: 389px;
+    border-radius: 8px;
+}
+
+.img-grid {
+    display: grid;
+    grid-gap: 12px;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.grid-img {
+    border-radius: 9px;
+    width: 80%;
+}
